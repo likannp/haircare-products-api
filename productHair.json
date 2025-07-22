@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+        "id": "prod_johnson_glycerin_750",
+        "name": "Johnson's Baby Glycerin Shampoo",
+        "brand": "Johnson's Baby",
+        "line": "Glycerin",
+        "productType": "shampoo",
+        "volume": "750ml",
+        "category": ["daily-use", "child", "hypoallergenic", "sensitive-skin"],
+        "description": "Gentle glycerin shampoo for baby, formulated to be as mild as pure water with balanced pH for delicate skin. Cleans, protects, and hydrates hair and scalp. No More Tears® formula for a tear-free experience. Safe for all ages. Hypoallergenic and dermatologist & pediatrician tested.",
+        "imageUrl": "https://images.ctfassets.net/yyofp6qm4inx/3vEsVMnhxkrk3ySMQOj69G/160f965695eaa2c8cad5d93e0a4c152b/shampoo_johnsons_baby_glicerina_frente_750ml-pt-br?fm=webp&w=1024",
+        "manufacturerUrl": "https://www.johnsonsbaby.com.br/produtos/shampoo/johnsons-baby-shampoo-de-glicerina",
+        "ean": "7891010027858",
+        "hairTypes": ["all"],
+        "textures": [],
+        "curlPatterns": [],
+        "purposes": ["cleansing", "hydration", "protection", "tear-free"],
+        "treats": ["dryness", "sensitivity"],
+        "howToUse": "Apply to wet hair, massage gently until creamy foam forms, then rinse thoroughly. Suitable for daily use.",
+        "ingredients": [
+            "Aqua",
+            "Cocamidopropyl Betaine",
+            "Decyl Glucoside",
+            "Sodium Cocoyl Isethionate",
+            "PEG-80 Sorbitan Laurate",
+            "PEG-150 Distearate",
+            "Glycerin",
+            "Citric Acid",
+            "Sodium Benzoate",
+            "Sodium Methyl Cocoyl Taurate",
+            "Parfum",
+            "Disodium EDTA",
+            "Polyquaternium-10"
+        ],
+        "keyActives": ["Glycerin"],
+        "freeFrom": ["sulfates", "parabens", "colorants", "phthalates"],
+        "compositionType": "synthetic-derived",
+        "vegan": false,
+        "crueltyFree": true,
+        "certifications": [],
+        "approvedBy": ["dermatologists", "pediatricians"],
+        "testedOn": ["dermatologically-tested", "hypoallergenic"],
+        "sustainabilityInfo": "Bottle made with 20% recycled plastic"
+      }
+  ]
+}
