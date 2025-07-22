@@ -1,47 +1,178 @@
 {
   "products": [
     {
-        "id": "prod_johnson_glycerin_750",
-        "name": "Johnson's Baby Glycerin Shampoo",
-        "brand": "Johnson's Baby",
-        "line": "Glycerin",
-        "productType": "shampoo",
-        "volume": "750ml",
-        "category": ["daily-use", "child", "hypoallergenic", "sensitive-skin"],
-        "description": "Gentle glycerin shampoo for baby, formulated to be as mild as pure water with balanced pH for delicate skin. Cleans, protects, and hydrates hair and scalp. No More Tears® formula for a tear-free experience. Safe for all ages. Hypoallergenic and dermatologist & pediatrician tested.",
-        "imageUrl": "https://images.ctfassets.net/yyofp6qm4inx/3vEsVMnhxkrk3ySMQOj69G/160f965695eaa2c8cad5d93e0a4c152b/shampoo_johnsons_baby_glicerina_frente_750ml-pt-br?fm=webp&w=1024",
-        "manufacturerUrl": "https://www.johnsonsbaby.com.br/produtos/shampoo/johnsons-baby-shampoo-de-glicerina",
-        "ean": "7891010027858",
-        "hairTypes": ["all"],
-        "textures": [],
-        "curlPatterns": [],
-        "purposes": ["cleansing", "hydration", "protection", "tear-free"],
-        "treats": ["dryness", "sensitivity"],
-        "howToUse": "Apply to wet hair, massage gently until creamy foam forms, then rinse thoroughly. Suitable for daily use.",
-        "ingredients": [
-            "Aqua",
-            "Cocamidopropyl Betaine",
-            "Decyl Glucoside",
-            "Sodium Cocoyl Isethionate",
-            "PEG-80 Sorbitan Laurate",
-            "PEG-150 Distearate",
-            "Glycerin",
-            "Citric Acid",
-            "Sodium Benzoate",
-            "Sodium Methyl Cocoyl Taurate",
-            "Parfum",
-            "Disodium EDTA",
-            "Polyquaternium-10"
-        ],
-        "keyActives": ["Glycerin"],
-        "freeFrom": ["sulfates", "parabens", "colorants", "phthalates"],
-        "compositionType": "synthetic-derived",
-        "vegan": false,
-        "crueltyFree": true,
-        "certifications": [],
-        "approvedBy": ["dermatologists", "pediatricians"],
-        "testedOn": ["dermatologically-tested", "hypoallergenic"],
-        "sustainabilityInfo": "Bottle made with 20% recycled plastic"
-      }
+      "id": "prod_johnson_glycerin_750",
+      "name": "Johnson's Baby Glycerin Shampoo",
+      "brand": "Johnson's Baby",
+      "line": "Glycerin",
+      "productType": "shampoo",
+      "volume": "750ml",
+      "category": [
+        "daily-use",
+        "child",
+        "hypoallergenic",
+        "sensitive-skin"
+      ],
+      "description": "Gentle glycerin shampoo for baby, formulated to be as mild as pure water with balanced pH for delicate skin. Cleans, protects, and hydrates hair and scalp. No More Tears® formula for a tear-free experience. Safe for all ages. Hypoallergenic and dermatologist & pediatrician tested.",
+      "imageUrl": "https://images.ctfassets.net/yyofp6qm4inx/3vEsVMnhxkrk3ySMQOj69G/160f965695eaa2c8cad5d93e0a4c152b/shampoo_johnsons_baby_glicerina_frente_750ml-pt-br?fm=webp&w=1024",
+      "manufacturerUrl": "https://www.johnsonsbaby.com.br/produtos/shampoo/johnsons-baby-shampoo-de-glicerina",
+      "ean": "7891010027858",
+      "hairTypes": [
+        "all"
+      ],
+      "textures": [],
+      "curlPatterns": [],
+      "purposes": [
+        "cleansing",
+        "hydration",
+        "protection",
+        "tear-free"
+      ],
+      "treats": [
+        "dryness",
+        "sensitivity"
+      ],
+      "howToUse": "Apply to wet hair, massage gently until creamy foam forms, then rinse thoroughly. Suitable for daily use.",
+      "ingredients": [
+        "Aqua",
+        "Cocamidopropyl Betaine",
+        "Decyl Glucoside",
+        "Sodium Cocoyl Isethionate",
+        "PEG-80 Sorbitan Laurate",
+        "PEG-150 Distearate",
+        "Glycerin",
+        "Citric Acid",
+        "Sodium Benzoate",
+        "Sodium Methyl Cocoyl Taurate",
+        "Parfum",
+        "Disodium EDTA",
+        "Polyquaternium-10"
+      ],
+      "keyActives": [
+        "Glycerin"
+      ],
+      "freeFrom": [
+        "sulfates",
+        "parabens",
+        "colorants",
+        "phthalates"
+      ],
+      "compositionType": "synthetic-derived",
+      "vegan": false,
+      "crueltyFree": true,
+      "certifications": [],
+      "approvedBy": [
+        "dermatologists",
+        "pediatricians"
+      ],
+      "testedOn": [
+        "dermatologically-tested",
+        "hypoallergenic"
+      ],
+      "sustainabilityInfo": "Bottle made with 20% recycled plastic"
+    },
+    {
+      "id": "prod_truss_hair_protector_250",
+      "name": "Hair Protector Leave-in",
+      "brand": "TRUSS",
+      "line": "",
+      "productType": "leave-in",
+      "volume": "250ml",
+      "category": [
+        "professional",
+        "daily-use",
+        "heat-protection"
+      ],
+      "description": "Gel-cream, no-rinse leave-in conditioner. Recovers hair structure and protects from heat and sun damage. Enhances shine, softness and detangling. Color-safe. Salon-exclusive formula. Vegan and cruelty-free.",
+      "imageUrl": "https://www.trussprofessional.com.br/assets/uploads/produtos/8eb75034054dd62d0a1db72ccfd7aa62.png",
+      "manufacturerUrl": "https://www.trussprofessional.com.br/hair-protector-250ml",
+      "ean": "7898947943770",
+      "hairTypes": [
+        "curly",
+        "wavy",
+        "coily",
+        "damaged",
+        "colored"
+      ],
+      "textures": [
+        "fine",
+        "medium",
+        "thick"
+      ],
+      "curlPatterns": [],
+      "purposes": [
+        "heat-protection",
+        "detangling",
+        "shine",
+        "smoothness",
+        "frizz-control",
+        "sun-protection"
+      ],
+      "treats": [
+        "frizz",
+        "dryness",
+        "color-fade",
+        "split-ends",
+        "heat-damage"
+      ],
+      "howToUse": "Apply to damp hair. Massage gently and blow dry. Do not rinse.",
+      "ingredients": [
+        "Aqua",
+        "Dodecane",
+        "Dimethicone",
+        "Polyquaternium-37",
+        "Divinyldimethicone/Dimethicone Copolymer",
+        "Propylene Glycol Dicaprylate/Dicaprate",
+        "Glycerin",
+        "Parfum",
+        "Isohexadecane",
+        "Phenoxyethanol",
+        "Isododecane",
+        "Polysilicone-15",
+        "PPG-1 PEG-6 Trideceth-12",
+        "Cetomacrogol 1000",
+        "Decamethylcyclopentasiloxane",
+        "C13-15 Alkane",
+        "PEG-23 C12-13 Alkyl Ether",
+        "PEG-3 C12-13 Alkyl Ether",
+        "Behenyl Alcohol",
+        "Cetearyl Alcohol",
+        "Dimethiconol",
+        "Hydroxyethyl Cetearylamidopropyl Dimonium Chloride",
+        "Polyquaternium-55",
+        "Hydrolyzed Rice Protein",
+        "Methicone",
+        "Carbocysteine",
+        "Hydrolyzed Wheat Protein",
+        "Polyquaternium-10",
+        "Potassium Sorbate",
+        "EDTA",
+        "Citric Acid",
+        "Sodium Benzoate",
+        "Sodium Citrate",
+        "Benzyl Salicylate",
+        "Citral",
+        "Geraniol",
+        "Hydroxycitronellal",
+        "Linalool",
+        "Limonene"
+      ],
+      "keyActives": [
+        "Amino Acids",
+        "Bio Affinity Complex",
+        "Hydrolyzed Wheat Protein",
+        "Glow System"
+      ],
+      "freeFrom": [],
+      "compositionType": "synthetic-derived",
+      "vegan": true,
+      "crueltyFree": true,
+      "certifications": [],
+      "approvedBy": [
+        "ANVISA"
+      ],
+      "testedOn": [],
+      "sustainabilityInfo": "Made in Brazil"
+    }
   ]
 }
