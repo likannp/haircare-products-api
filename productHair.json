@@ -269,6 +269,336 @@
         "dermatologically-tested"
       ],
       "sustainabilityInfo": "Made in Brazil"
+    },
+    {
+      "id": "prod_dove_bond_intense_repair_50",
+      "name": "Dove Bond Intense Repair Creme Leave-In",
+      "brand": "Dove",
+      "line": "Bond Intense Repair",
+      "productType": "leave-in",
+      "volume": "50ml",
+      "category": [
+        "daily-use",
+        "repair",
+        "heat-protection",
+        "anti-breakage",
+        "split-ends",
+        "UV-protection"
+      ],
+      "description": "O Creme Leave-In Bond Intense Repair oferece ação condicionante com 10 benefícios ativos, incluindo reparação molecular, proteção térmica e UV, redução de quebra e pontas duplas. Com tecnologia patenteada e +6% Peptídeo Complex, resgata os fios profundamente danificados.",
+      "imageUrl": "https://assets.unileversolutions.com/v1/126245850.jpg?im=AspectCrop=(1199,1200);Resize=(1199,1200)",
+      "manufacturerUrl": "https://www.dove.com/br/p/leave-in-bond-intense-repair.html/07891150095601",
+      "ean": "7891150095601",
+      "hairTypes": [
+        "all"
+      ],
+      "textures": [
+        "fine",
+        "medium",
+        "thick"
+      ],
+      "curlPatterns": [
+        "1A",
+        "2A",
+        "2B",
+        "2C",
+        "3A"
+      ],
+      "purposes": [
+        "repair",
+        "strengthening",
+        "softness",
+        "split-ends-prevention",
+        "heat-protection",
+        "UV-protection",
+        "shine"
+      ],
+      "treats": [
+        "breakage",
+        "damage",
+        "weakness",
+        "dullness",
+        "split-ends"
+      ],
+      "howToUse": "Aplique o produto do meio às pontas, depois da lavagem. Penteie. Sem enxágue. Uso diário.",
+      "ingredients": [
+        "Aqua",
+        "Cetearyl Alcohol",
+        "Dimethicone",
+        "Behentrimonium Chloride",
+        "Parfum",
+        "Dipropylene Glycol",
+        "Glycerin",
+        "Lactic Acid",
+        "Sodium Benzoate",
+        "Amodimethicone",
+        "Disodium EDTA",
+        "PEG-180M",
+        "Cetrimonium Chloride",
+        "Potassium Chloride",
+        "Arginine",
+        "Lysine HCl",
+        "Hydrolyzed Keratin",
+        "Peptides",
+        "Alpha-Isomethyl Ionone",
+        "Benzyl Alcohol",
+        "Limonene",
+        "Linalool"
+      ],
+      "keyActives": [
+        "Peptide Complex",
+        "Hydrolyzed Keratin",
+        "Arginine",
+        "Lysine"
+      ],
+      "freeFrom": [],
+      "compositionType": "synthetic-derived",
+      "vegan": false,
+      "crueltyFree": false,
+      "certifications": [],
+      "approvedBy": [],
+      "testedOn": [],
+      "sustainabilityInfo": "Tampa reciclável (PP), tubo reciclável (Outros plásticos)"
+    },
+    {
+      "id": "prod_hidratei_spray_multifunctional_60",
+      "name": "Hidratei Spray Multifuncional",
+      "brand": "Hidratei",
+      "line": "Multifuncional",
+      "productType": "spray",
+      "volume": "60ml",
+      "category": [
+        "daily-use",
+        "natural",
+        "vegan",
+        "leave-in",
+        "heat-protection",
+        "UV-protection"
+      ],
+      "description": "Spray leave‑in multifunctional for use after bath, at the beach or pool. Delivers hydration, nutrition, silkiness, shine, heat and sun protection. Ideal for all hair types, controls frizz and enhances detangling.",
+      "imageUrl": "https://hidratei.com.br/cdn/shop/files/leave-in-multifuncional-travel-size-60ml-linha-tradicional-hidratei-845535.webp?v=1714167590&width=600",
+      "manufacturerUrl": "https://hidratei.com.br/products/leave-in-hidratei-60-ml?_pos=1&_sid=6c3b1705e&_ss=r",
+      "ean": "7898967281025",
+      "hairTypes": [
+        "all"
+      ],
+      "textures": [
+        "fine",
+        "medium",
+        "thick"
+      ],
+      "curlPatterns": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "2C",
+        "3A",
+        "3B",
+        "3C",
+        "4A",
+        "4B",
+        "4C"
+      ],
+      "purposes": [
+        "hydration",
+        "nourishment",
+        "softness",
+        "shine",
+        "thermal-protection",
+        "UV-protection",
+        "detangling",
+        "frizz-control"
+      ],
+      "treats": [
+        "dryness",
+        "frizz",
+        "dullness",
+        "heat-damage"
+      ],
+      "howToUse": "Spray on damp or dry hair, spread and do not rinse. Can be used as conditioner or leave‑in after shampoo. Suitable after bath, at the beach/pool.",
+      "ingredients": [
+        "Aqua",
+        "Behentrimonium Methosulfate",
+        "Cetearyl Alcohol",
+        "Bis-Cetearyl Amodimethicone",
+        "Ceteareth-7",
+        "Ceteareth-25",
+        "Glycerin",
+        "Quaternium-17",
+        "Phenyl Trimethicone",
+        "Stearamidopropyl Dimethylamine",
+        "Parfum",
+        "Creatine",
+        "Sodium PCA",
+        "Sodium Lactate",
+        "Arginine",
+        "Aspartic Acid",
+        "Alanine",
+        "Serine",
+        "Valine",
+        "Proline",
+        "Threonine",
+        "Isoleucine",
+        "Histidine",
+        "Phenylalanine",
+        "Phenoxyethanol",
+        "Hydrolyzed Wheat Protein",
+        "Cocos Nucifera Oil",
+        "Persea Gratissima Oil",
+        "Lactic Acid",
+        "Disodium EDTA"
+      ],
+      "keyActives": [
+        "Avocado Oil",
+        "Panthenol",
+        "Coconut Oil",
+        "Creatine",
+        "Vitamin E",
+        "Hydrolyzed Wheat Protein"
+      ],
+      "freeFrom": [
+        "parabens",
+        "petrolatum",
+        "insoluble silicones"
+      ],
+      "compositionType": "natural",
+      "vegan": true,
+      "crueltyFree": true,
+      "certifications": [
+        "eureciclo"
+      ],
+      "approvedBy": [],
+      "testedOn": [],
+      "sustainabilityInfo": "Vegan product, recyclable packaging, 12M shelf‑life"
+    },
+    {
+      "id": "prod_help_sun_spray_170",
+      "name": "Help! Sun Spray Protetor 4 em 1",
+      "brand": "Bothânico Hair",
+      "line": "Help! Sun",
+      "productType": "spray",
+      "volume": "170ml",
+      "category": [
+        "leave-in",
+        "heat-protection",
+        "UV-protection",
+        "daily-use",
+        "post-sun",
+        "natural",
+        "vegan"
+      ],
+      "description": "Spray multifuncional 4 em 1 para proteção dos cabelos contra os danos do sol, mar e piscina. Com bioativos como água de coco, cúrcuma e chá-verde, promove ação fotoprotetora, desembaraço, reidratação e brilho. pH 3.5 - 4.5. Indicado para uso diário nos 365 dias do ano.",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/1031561/spray_protetor_4_em_1_help_sun170ml_3238_1_af0adbcb420857f67f2e54c27582bc95.png",
+      "manufacturerUrl": "https://www.bothanicocosmeticos.com.br/spray-protetor-4-em-1-help-sun170ml",
+      "ean": "7898253201323",
+      "hairTypes": [
+        "all"
+      ],
+      "textures": [
+        "fine",
+        "medium",
+        "thick"
+      ],
+      "curlPatterns": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "2C",
+        "3A",
+        "3B",
+        "3C",
+        "4A",
+        "4B",
+        "4C"
+      ],
+      "purposes": [
+        "shine",
+        "reminalization",
+        "detangling",
+        "heat-protection",
+        "UV-protection",
+        "hydration",
+        "protection-against-sea-salt",
+        "protection-against-chlorine"
+      ],
+      "treats": [
+        "sun-damage",
+        "dryness",
+        "color-fading"
+      ],
+      "howToUse": "Agite antes de usar. Aplique nos fios molhados ou secos, antes e durante a exposição ao sol, água do mar ou piscina. Reaplique após mergulho. Não é necessário enxaguar.",
+      "ingredients": [
+        "Aqua",
+        "Cetearyl Alcohol",
+        "PEG-40 Hydrogenated Castor Oil",
+        "Bis-Aminopropyl Dimethicone",
+        "Stearamidopropyl Dimethylamine",
+        "Behentrimonium Chloride",
+        "Parfum",
+        "Cetrimonium Chloride",
+        "Amodimethicone",
+        "Ethyl Olivate",
+        "Ethylhexyl Methoxycinnamate (Octinoxato)",
+        "Cocos Nucifera Water",
+        "Isopropyl Alcohol",
+        "Citric Acid",
+        "Behentrimonium Methosulfate",
+        "PolietilenoGlicol-12 Éter de Álcool Tridecílico",
+        "Disodium EDTA",
+        "Ethyl Linoleate",
+        "Ethyl Laurate",
+        "TEA-Dodecylbenzenesulfonate",
+        "Cocos Nucifera (Coconut) Oil",
+        "Oryza Sativa Bran Wax",
+        "Glyceryl Stearate",
+        "Polihexanida",
+        "Lecithin",
+        "Xanthan Gum",
+        "Tocopheryl Acetate",
+        "Simmondsia Chinensis Seed Oil",
+        "Camellia Sinensis Leaf Extract",
+        "Cucumis Sativus Extract",
+        "Chamomilla Recutita Extract",
+        "Rosmarinus Officinalis Leaf Extract",
+        "Curcuma Longa",
+        "Magnesium Nitrate",
+        "Methylchloroisothiazolinone",
+        "Methylisothiazolinone",
+        "Potassium Sorbate",
+        "Magnesium Chloride",
+        "Quercetin",
+        "Xanthophylls",
+        "Panthenol",
+        "Coumarin"
+      ],
+      "keyActives": [
+        "Água de Coco",
+        "Cúrcuma",
+        "Chá-Verde",
+        "Jojoba Oil",
+        "Vitamina E",
+        "Filtro Solar"
+      ],
+      "freeFrom": [
+        "parabens",
+        "paraffin",
+        "gluten",
+        "mineral-oil",
+        "animal-ingredients"
+      ],
+      "compositionType": "natural",
+      "vegan": true,
+      "crueltyFree": true,
+      "certifications": [
+        "vegano",
+        "não testado em animais",
+        "eco-friendly"
+      ],
+      "approvedBy": [],
+      "testedOn": [],
+      "sustainabilityInfo": "Produto vegano, não testado em animais, com embalagem eco-friendly."
     }
   ]
 }
