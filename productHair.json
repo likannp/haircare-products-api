@@ -173,6 +173,102 @@
       ],
       "testedOn": [],
       "sustainabilityInfo": "Made in Brazil"
+    },
+    {
+      "id": "prod_lola_danos_vorazes_200",
+      "name": "Lola Danos Vorazes Leave-In",
+      "brand": "Lola Cosmetics",
+      "line": "Danos Vorazes",
+      "productType": "leave-in",
+      "volume": "200ml",
+      "category": [
+        "daily-use",
+        "vegan",
+        "heat-protection",
+        "clean-beauty",
+        "frizz-control",
+        "damaged-hair"
+      ],
+      "description": "Leave-in finisher with cannabinoid active system (CBA) and hair kombucha. Seals cuticles, provides luminous shine, controls frizz and offers thermal protection up to 230 °C. Rich probiotic complex repairs chemical damage and restores hair vitality. Vegan and dermatologically tested.",
+      "imageUrl": "https://m.media-amazon.com/images/I/41XNJekcJSL._AC_SX679_.jpg",
+      "manufacturerUrl": "https://www.lolacosmetics.com.br/danos-vorazes-leave-in-finalizador-200ml-ps-19629-86-p45581?srsltid=AfmBOopyqmESArcNhjdyyFSlNnvfd077u1LgTIzELUVMxM9Ft6KVy3h2",
+      "ean": "7899572811731",
+      "hairTypes": [
+        "all"
+      ],
+      "textures": [
+        "medium",
+        "thick"
+      ],
+      "curlPatterns": [
+        "2B",
+        "3C",
+        "4A",
+        "4B"
+      ],
+      "purposes": [
+        "heat-protection",
+        "shine",
+        "frizz-control",
+        "repair",
+        "sealing"
+      ],
+      "treats": [
+        "damage",
+        "dryness",
+        "frizz",
+        "dullness"
+      ],
+      "howToUse": "Apply a small amount to clean damp or dry hair. For extra repair, use before blow drying or flat ironing. Do not rinse.",
+      "ingredients": [
+        "Aqua",
+        "Hydroxyethyl Diethylenetriamine Dioleamide",
+        "PPG-3 Benzyl Ether Myristate",
+        "Copaifera Officinalis Resin",
+        "Passiflora Edulis Seed Oil",
+        "Black Tea Ferment (Kombucha)",
+        "Linseed Extract",
+        "Hydrolyzed Rice Protein",
+        "Hydrolyzed Wheat Protein",
+        "Caprylyl Glycol",
+        "Phenoxyethanol",
+        "Fragrance",
+        "Benzyl Salicylate",
+        "Citronellol",
+        "Limonene",
+        "Linalool",
+        "Citral",
+        "Geraniol",
+        "CI 42090",
+        "CI 17200",
+        "Mica"
+      ],
+      "keyActives": [
+        "Cannabinoid Active System (CBA)",
+        "Hair Kombucha",
+        "Probiotic Complex",
+        "Hydrolyzed Rice & Wheat Protein"
+      ],
+      "freeFrom": [
+        "sulfates",
+        "parabens",
+        "silicones",
+        "perfume"
+      ],
+      "compositionType": "clean-beauty",
+      "vegan": true,
+      "crueltyFree": true,
+      "certifications": [
+        "Certified Vegan",
+        "PEA Cruelty Free"
+      ],
+      "approvedBy": [
+        "ANVISA"
+      ],
+      "testedOn": [
+        "dermatologically-tested"
+      ],
+      "sustainabilityInfo": "Made in Brazil"
     }
   ]
 }
